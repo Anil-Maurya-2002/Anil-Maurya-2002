@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anil-Maurya-2002](https://github.com/Anil-Maurya-2002)
+- 👨‍💻 All of my projects are available at [https://github.com/Anil-Maurya-2002]([https://github.com/Anil-Maurya-2002](https://github.com/Anil-Maurya-2002?tab=repositories))
 
 - 💬 Ask me about **anything, i am happy to help;**
 
